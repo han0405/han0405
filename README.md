@@ -41,11 +41,3 @@ Undergraduate thesis project — image clustering pipeline built around a JiT-ba
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=han0405&show_icons=true&theme=default&hide_border=true" alt="Han's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=han0405&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
