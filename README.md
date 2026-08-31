@@ -1,5 +1,7 @@
 # Han
 
+👋 Hey, thanks for stopping by!
+ 
 **Data Scientist / ML Engineer — LLMs, Python, SQL**
 MSOR @ Columbia University
 
