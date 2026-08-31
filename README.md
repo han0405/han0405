@@ -19,7 +19,7 @@ I turn messy, real-world data into LLM and machine learning systems that move th
 
 Currently exploring LLM systems, machine learning, and applied statistics — open to AI/LLM engineering roles as well as data science / analytics / algorithm roles.
 
-**Contact:** [hanw040519@gmail.com](mailto:hw3195@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/hanwang-/)
+**Contact:** [hw3195@columbia.edu](mailto:hw3195@columbia.edu) · [LinkedIn](https://www.linkedin.com/in/hanwang-/)
 
 ---
 
