@@ -25,7 +25,7 @@ Currently exploring LLM systems, machine learning, and applied statistics — op
 
 ### Featured Project
 
-**[Unsupervised Image Clustering with JiT Manifold Denoising](#)** *(link once repo is public)*
+**[Unsupervised Image Clustering with JiT Manifold Denoising](#)** 
 Undergraduate thesis project — image clustering pipeline built around a JiT-based manifold denoising model.
 
 ---
